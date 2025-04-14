@@ -77,12 +77,6 @@ sudo ./prct 1 1234 -sk
 
 ---
 
-## 📎 License
-
-MIT License (or specify your preferred license)
-
----
-
 ## 👨‍💻 Author
 
 - Saima Khatoon
